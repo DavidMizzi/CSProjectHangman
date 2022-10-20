@@ -20,8 +20,8 @@ TABLE OF CONTENTS
 
 
 
-1. INTRODUCTION
----------------
+1...INTRODUCTION
+----------------
 Hangman ('the game') is a console run game developed in C# and which utilises .NET framework. 
 The project was developed from self-taught programming knowledge in preparation for formal 
 programming studies. With limited knowledge of Python and 4-weeks of C# study, Hangman is the 
@@ -31,8 +31,8 @@ The game is based on the classic hangman game.
 
 
 
-2. PROJECT SCOPE
-----------------
+2...PROJECT SCOPE
+-----------------
 As a game, Hangman is limited to its intended purpose - an exercise which helps me to embed 
 and enhance basic C# syntax as well as general programming techniques. As such, there are 
 various identifiable limitations as explained in the 'Features and Limitations' section of
@@ -42,8 +42,8 @@ Development time was 4 days - approximately 25 hours of learning enhancement and
 
 
 
-3. PROGRAMMING FEATURES and LIMITATIONS
----------------------------------------
+3...PROGRAMMING FEATURES and LIMITATIONS
+----------------------------------------
 Programming features of the game include:
 
 * Arrays
@@ -69,8 +69,8 @@ Noteworthy limitations to the game include:
 
 
 
-4. REQUIREMENTS
----------------
+4...REQUIREMENTS
+----------------
 Recommended Requirements:
 
 * Visual Studio 2022
@@ -84,8 +84,8 @@ Recommended Requirements:
 
 
 
-5. INSTALLATION
----------------
+5...INSTALLATION
+----------------
 * Install Visual Studio 2022 (see 'REQUIREMENTS' header)
 * Open Visual Studio
 * Select 'Clone a repository'
@@ -97,14 +97,14 @@ Recommended Requirements:
 
 
 
-6. RUNNING the PROGRAM
-----------------------
+6...RUNNING the PROGRAM
+-----------------------
 * After following the directions in the 'Installation' header, use Ctrl + F5 to run the program.
 
 
 
-7. LICENSING
-------------
+7...LICENSING
+-------------
 The project Hangman and the data contained therein are the property of the developer as identified
 as under the 'Developer Contact' header in this README file. 
 
@@ -116,8 +116,8 @@ For any queries, contact the developer.
 
 
 
-8. DEVELOPER CONTACT
---------------------
+8...DEVELOPER CONTACT
+---------------------
 
 Name: David Mizzi
 Email: david.mizzi@outlook.com
