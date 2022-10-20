@@ -5,6 +5,7 @@ README
 
 Project: Hangman
 
+
 TABLE OF CONTENTS
 -----------------
 
@@ -18,6 +19,7 @@ TABLE OF CONTENTS
 8. Developer Contact
 
 
+
 1. INTRODUCTION
 ---------------
 Hangman ('the game') is a console run game developed in C# and which utilises .NET framework. 
@@ -28,6 +30,7 @@ outcome.
 The game is based on the classic hangman game.
 
 
+
 2. PROJECT SCOPE
 ----------------
 As a game, Hangman is limited to its intended purpose - an exercise which helps me to embed 
@@ -36,6 +39,7 @@ various identifiable limitations as explained in the 'Features and Limitations' 
 this README file.
 
 Development time was 4 days - approximately 25 hours of learning enhancement and programming.
+
 
 
 3. PROGRAMMING FEATURES and LIMITATIONS
@@ -64,6 +68,7 @@ Noteworthy limitations to the game include:
   elsewhere in the project.
 
 
+
 4. REQUIREMENTS
 ---------------
 Recommended Requirements:
@@ -78,6 +83,7 @@ Recommended Requirements:
 * Video Card with resolution capability of 1920 x 1080 or higher.
 
 
+
 5. INSTALLATION
 ---------------
 * Install Visual Studio 2022 (see 'REQUIREMENTS' header)
@@ -89,9 +95,12 @@ Recommended Requirements:
 * If you experience any issues accessing the program, please contact the developer whose details
   are found under the 'Developer Contact' header.
 
+
+
 6. RUNNING the PROGRAM
 ----------------------
 * After following the directions in the 'Installation' header, use Ctrl + F5 to run the program.
+
 
 
 7. LICENSING
@@ -104,6 +113,8 @@ educational and non-commercial purposes only however, the developer must be cred
 to this license.
 
 For any queries, contact the developer.
+
+
 
 8. DEVELOPER CONTACT
 --------------------
